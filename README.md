@@ -91,6 +91,19 @@ Query 5 highlights all of the players that have the most combined recieving and 
 
 Query 5 allows managers to look at the statistics for the performance of the offensive players, moving the spotlight away from the QB postion. It can be also used by Head coaches to see who are the best playmakers are in the offence in comparision to other players, which can be valubale in developing different schemes against different teams. For example, it can tell a head coach what player is exceeding compared to other offensive players that aren't neccesarily the QB, and make informed and thorough decision on who the ball should be given to mainly, impacting the performance of the whole offense. 
 
+Query 6 highlights conferences with cumulative win/loss ratios higher than average. 
+
+Query 6 helps managers identify which conferences are performing the best. This information is valuable for recruiting strategists, as it allows them to adjust their pitches and incentives based on their conference’s ranking. Higher-performing conferences naturally attract more interest from high school recruits. Additionally, strong conference performance plays a crucial role in securing media coverage and sponsorships. Teams in top-performing conferences tend to have larger fan bases, leading to increased revenue from media deals and sponsorship opportunities.
+
+Query 7 shows brands that spend more than average on NIL. 
+
+Query 7 helps managers identify which companies hold the largest shares of the market. This information enables managers to target these major contributors when seeking additional sponsorships. Additionally, tracking companies with above-average market shares is valuable for regulatory purposes, ensuring fair play and equal opportunities.
+
+Query 8 shows the poorest preforming mascots. 
+
+Query 8 is useful to managers as part of a marketing strategy. Consistently underperforming teams can use this information to consider rebranding, which may help revitalize fan engagement and, in turn, create new sponsorship opportunities.
+
+
 ## Database information:
 
 Name of the database: cs_aww39979
