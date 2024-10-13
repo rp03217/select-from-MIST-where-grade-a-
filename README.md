@@ -108,7 +108,8 @@ Query 7 helps managers identify which companies hold the largest shares of the m
 
 Query 8 shows the poorest preforming mascots. 
 
-![image](https://github.com/user-attachments/assets/8e7adceb-7bc9-46be-8b68-f00b23fb6839)
+![Screenshot (88)](https://github.com/user-attachments/assets/8f8cea23-1b01-478f-89ec-d56b14ddc157)
+
 
 Query 8 is useful to managers as part of a marketing strategy. Consistently underperforming teams can use this information to consider rebranding, which may help revitalize fan engagement and, in turn, create new sponsorship opportunities.
 
