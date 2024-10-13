@@ -78,7 +78,7 @@ Query 1 allows managers to see which signed players are perfroming the best. A c
 
 Query 2 allows managers to look at statistics for performance benchmarking and rankings within the SEC. This can also be used as a head coach evaluation to see which head coach and their team is exceeding above average with this conference. An athletic director, fro example, who is in charge of hiring and firing coaches may want to review this data to see how their coach is performing relative to other coaches in the conference. This query might help an anthletic department make informed descions on their coach's salary, job security, or future contracts.
 
-3. Query 3 shows the players with over 500 passing yards who are not signed to an NIL deal
+3. Query 3 shows the stats of players with over 500 passing yards who are not signed to an NIL deal
 
 ![Screenshot (89)](https://github.com/user-attachments/assets/66c55119-b0ba-475f-8c11-3ff2a9aef43a)
 
