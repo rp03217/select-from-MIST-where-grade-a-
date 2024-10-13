@@ -82,6 +82,8 @@ Query 2 allows managers to look at statistics for performance benchmarking and r
  
 ![querey for college footbal 2 complex](https://github.com/user-attachments/assets/5427cb77-9df4-4405-b9e4-eda3931c5de3)
 
+With query 4, managers will find this data useful for several reasons, particularly in the context of player management, team performance, and strategic decision-making. This allows a comprehensible table to showcase these statistics through this one platform.
+
 Query 5 highlights all of the players that have the most combined recieving and rushing yards in all of the conferences
 
 <img width="852" alt="QUERYMIST" src="https://github.com/user-attachments/assets/72977d06-2705-4a57-861c-acdef179d797">
