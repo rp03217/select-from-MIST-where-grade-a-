@@ -1,7 +1,7 @@
 # Team 8 Mist 4610 Group Project 1
 
 ## Team Name: 
-select-from-MIST-where-grade-a- 
+select * from MIST4610 where grade = A; 
 
 ## Team Members:
 
