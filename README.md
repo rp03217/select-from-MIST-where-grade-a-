@@ -60,3 +60,9 @@ Query 1 allows managers to see which signed players are perfroming the best. A c
 ![3](https://github.com/user-attachments/assets/07b962b5-4bf0-4433-8f26-094ad190250b)
 
 Query 2
+
+Query 3 retrieves information about sports teams and their head coaches, specifically listing the team's name, number of wins, number of losses, head coach's name, and salary. The data is sourced from two tables: team and coach. The tables are joined based on a common identifier (idTeam) to combine related information. The results are ordered by the coach's salary in descending order, meaning the highest-paid coaches will appear first.
+
+<img width="467" alt="952x980 png 672cf1addad246bf91b6ee318d118c80" src="https://github.com/user-attachments/assets/a1e22a8d-6701-4324-a0bc-485837fb6fb5">
+
+This query is valuable for managers as it allows them to assess team performance in relation to coach compensation. By comparing the number of wins and losses with the coach's salary, managers can evaluate the return on investment for each coach. This insight can guide decisions on coach retention, salary adjustments, or the recruitment of new coaching talent. Additionally, ordering the results by salary allows for easy identification of the highest-paid coaches, enabling more informed budget allocation and salary negotiations.
