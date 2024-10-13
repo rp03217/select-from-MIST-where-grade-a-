@@ -7,7 +7,7 @@ select * from MIST4610 where grade = A;
 
 1. Gus Wilkerson [@augwilk](https://www.github.com/augwilk)
 2. Emma Calleja [@EmmaCalleja](https://github.com/EmmaCalleja)
-3. Hannah Conley [@Hmc98563]
+3. Hannah Conley [@Hmc98563](https://github.com/Hmc98563)
 
 ## Problem Description:
 
