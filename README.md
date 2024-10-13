@@ -48,7 +48,7 @@ Explanation of data model:
 
 1. Query 1 lists the players that have NIL deals with the company Nike along with their cummulative statictics for teh season. The results are ordered from greatest to least stats with priority given to passing yards and then receiving yards. 
 
-![Screenshot (63)](https://github.com/user-attachments/assets/0c016ee3-a349-4597-a19a-1a0f55b69c67)
+![Screenshot (63)](https://github.com/user-attachments/assets/861b5818-259b-41e1-bf08-48344921dfaa)
 
 Query 1 allows managers to see which signed players are perfroming the best. A company like Nike would want to sign with the highest producing atheletes to help build their brand as an elite sporting wear producer. The company may need to consider cutting deals with certain athletes that are nto perfroming well or look into extending contracts with high performing players. This query also reveals areas Nike could continue to grow. For example, Only one player signed with Nike has a significant numebr of rushing yards. This may entice Nike to look into other running backs to sponsor to continue to grow and promote their brand in teh college football landscape. This query could help Sponsors make informed decsions and assess how their contracted plaeyrs are performing.
 
