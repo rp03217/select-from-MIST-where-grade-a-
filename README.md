@@ -95,13 +95,19 @@ Query 5 allows managers to look at the statistics for the performance of the off
 
 Query 6 highlights conferences with cumulative win/loss ratios higher than average. 
 
+![image](https://github.com/user-attachments/assets/4325dc9b-e027-4d52-aeb2-d0e12fdabfe1)
+
 Query 6 helps managers identify which conferences are performing the best. This information is valuable for recruiting strategists, as it allows them to adjust their pitches and incentives based on their conference’s ranking. Higher-performing conferences naturally attract more interest from high school recruits. Additionally, strong conference performance plays a crucial role in securing media coverage and sponsorships. Teams in top-performing conferences tend to have larger fan bases, leading to increased revenue from media deals and sponsorship opportunities.
 
 Query 7 shows brands that spend more than average on NIL. 
 
+![image](https://github.com/user-attachments/assets/7b935a27-355d-462f-9702-9f3a16b7c41f)
+
 Query 7 helps managers identify which companies hold the largest shares of the market. This information enables managers to target these major contributors when seeking additional sponsorships. Additionally, tracking companies with above-average market shares is valuable for regulatory purposes, ensuring fair play and equal opportunities.
 
 Query 8 shows the poorest preforming mascots. 
+
+![image](https://github.com/user-attachments/assets/8e7adceb-7bc9-46be-8b68-f00b23fb6839)
 
 Query 8 is useful to managers as part of a marketing strategy. Consistently underperforming teams can use this information to consider rebranding, which may help revitalize fan engagement and, in turn, create new sponsorship opportunities.
 
