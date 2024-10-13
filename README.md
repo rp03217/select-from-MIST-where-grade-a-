@@ -88,4 +88,9 @@ Query 5 highlights all of the players that have the most combined recieving and 
 
 Query 5 allows managers to look at the statistics for the performance of the offensive players, moving the spotlight away from the QB postion. It can be also used by Head coaches to see who are the best playmakers are in the offence in comparision to other players, which can be valubale in developing different schemes against different teams. For example, it can tell a head coach what player is exceeding compared to other offensive players that aren't neccesarily the QB, and make informed and thorough decision on who the ball should be given to mainly, impacting the performance of the whole offense. 
 
+## Database information:
 
+Name of the database: cs_aww39979
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
+CALL TP_Q1();
