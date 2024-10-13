@@ -6,6 +6,7 @@ select * from MIST4610 where grade = A;
 ## Team Members:
 
 1. Gus Wilkerson [@augwilk](https://www.github.com/augwilk)
+2. Emma Calleja @EmmaCalleja
 
 ## Problem Description:
 
