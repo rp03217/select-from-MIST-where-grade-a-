@@ -5,7 +5,7 @@ select-from-MIST-where-grade-a-
 
 ## Team Members:
 
-1. Gus Wilkerson
+1. Gus Wilkerson @augwilk
 
 ## Problem Description:
 
