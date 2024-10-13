@@ -83,7 +83,7 @@ Query 2 allows managers to look at statistics for performance benchmarking and r
  
 ![querey for college footbal 2 complex](https://github.com/user-attachments/assets/5427cb77-9df4-4405-b9e4-eda3931c5de3)
 
-With query 4, managers will find this data useful for several reasons, particularly in the context of player management, team performance, and strategic decision-making. This allows a comprehensible table to showcase these statistics through this one platform.
+With query 4, managers will find this data useful for several reasons, particularly in the context of player management, team performance, and strategic decision-making. This allows a comprehensible table to showcase these statistics through this one platform. Thsi woudl be useful in a scenario where a coach would be monitoring their player overturn. If tehy were to review this data and see that many players had joined their team recently relative to otehr teams they might be concerned taht their roster is made up of young adn inexperienced players. On teh otehr hand, if a new player as not joined their team in quite some tim ethey may wan tot ivent more resources in recruiting.
 
 Query 5 highlights all of the players that have the most combined recieving and rushing yards in all of the conferences
 
