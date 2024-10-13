@@ -30,6 +30,12 @@ Explanation of data model:
 
 ![Screenshot (80)](https://github.com/user-attachments/assets/01c66565-38a3-46e5-986d-9146cf72e75c)
 
+![Screenshot (85)](https://github.com/user-attachments/assets/bcf0973f-fbda-4a77-8568-42ee1d11532b)
+
+![Screenshot (86)](https://github.com/user-attachments/assets/7d285e9e-2eb4-442b-a8ff-3f0dbc14ed91)
+
+![Screenshot (87)](https://github.com/user-attachments/assets/a125aa6f-7d8e-4784-a3d1-74155a016e1a)
+
 
 
 
