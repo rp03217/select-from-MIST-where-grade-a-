@@ -53,5 +53,18 @@ Explanation of data model:
 
 ![Screenshot (63)](https://github.com/user-attachments/assets/861b5818-259b-41e1-bf08-48344921dfaa)
 
-Query 1 allows managers to see which signed players are perfroming the best. A company like Nike would want to sign with the highest producing atheletes to help build their brand as an elite sporting wear producer. The company may need to consider cutting deals with certain athletes that are nto perfroming well or look into extending contracts with high performing players. This query also reveals areas Nike could continue to grow. For example, Only one player signed with Nike has a significant numebr of rushing yards. This may entice Nike to look into other running backs to sponsor to continue to grow and promote their brand in teh college football landscape. This query could help Sponsors make informed decsions and assess how their contracted players are performing.
+Query 1 allows managers to see which signed players are perfroming the best. A company like Nike would want to sign with the highest producing atheletes to help build their brand as an elite sporting wear producer. The company may need to consider cutting deals with certain athletes that are nto perfroming well or look into extending contracts with high performing players. This query also reveals areas Nike could continue to grow. For example, Only one player signed with Nike has a significant numebr of rushing yards. This may entice Nike to look into other running backs to sponsor to continue to grow and promote their brand in teh college football landscape. This query could help Sponsors make informed decsions and assess how their contracted plaeyrs are performing.
+
+
+
+2. Query 2 retrieves information about sports teams and their head coaches, specifically listing the team's name, the number of wins and losses, head coach's name, and the salary of the head coach. The data is sourced from two tables: team and coach. The tables are joined based on a common identifier to combine related information. The results are ordered by the coach's salary in descending order, which means the highest-paid coaches will appear first.
+
+This query is valuable for managers as it allows them to assess team performances in relation to coach compensation. By comparing the number of wins and losses with the coach's salary, managers can evaluate the return on investment for each coach. This insight can guide decisions on coachs, salary adjustments, or the recruitment of new coaching talent for the future. Additionally, ordering the results by salary allows for easy identification of the highest-paid coaches, enabling more informed budget allocation and salary negotiations.
+
+
+
+
+
+
+
 
