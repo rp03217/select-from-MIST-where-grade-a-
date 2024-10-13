@@ -61,3 +61,10 @@ Query 1 allows managers to see which signed players are perfroming the best. A c
 
 Query 2 allows managers to look at statistics for performance benchmarking and rankings within the SEC. This can also be used as a head coach evaluation to see which head coach and their team is exceeding above average with this conference. An athletic director, fro example, who is in chareg of hiring adn firing coaches may want to review this data to see how their coach is performing relative to other coaches in the conference. This query might help an anthletic department make informed descions on their coach's salary, job security, or future contracts.
 
+3. Query 3
+  
+4. Query 4 retrieves all players and the team they joined, along with the date they joined, ordered by descending dates.
+ 
+![querey for college footbal 2 complex](https://github.com/user-attachments/assets/5427cb77-9df4-4405-b9e4-eda3931c5de3)
+
+
