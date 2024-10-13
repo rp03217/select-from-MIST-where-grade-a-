@@ -9,7 +9,10 @@ select * from MIST4610 where grade = A;
 
 ## Problem Description:
 
-The task at hadn
+The task at hand:
+Today, college football data is dispersed across multiple platforms and sources, making it difficult to get a clear and accurate picture of the sport. Since this approach is broken up across platforms, it is difficult to access and analyze key statistics or trends over time. To address this issue, the NCAA has launched a project to create an essential database of Division 1 college football statistics.
+Specifically, the project aims to create a unified data repository for all D1 conferences, players, and head coaches, including in-depth statistics such as NIL, wins, losses, and game statistics among others.
+
 
 ## Data Model
 
