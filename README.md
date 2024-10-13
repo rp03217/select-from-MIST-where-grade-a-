@@ -18,6 +18,20 @@ Specifically, the project aims to create a unified data repository for all D1 co
 
 Explanation of data model: 
 
+Our data model is based around the landscape of college football as we see it. College football is made up of a handful of conferences each of which has several teams as shown by the one to many relationship established between these two entities. The team entity contains pertinent information for that team for the season including what university of the team and the tally of their wins and losses.
+
+Teams need several coaches to operate (i.e. position coaches, coordinators, trainers) but each has just one head coach as shown by the one to one relationship. Coaches have a salary and a title of their position.
+
+Each team plays in multiple games in a year and each game has two teams. The weak entity linking the many to many relationship between team and game is the team_game entity which stores each teams individual score in their matchup. 
+
+Because of the transfer portal, players can now be on multiple teams over the time of their collegiate career but only one team at a time. The portal entity links many players to many teams and vice versa, storing the date they joined and left the team if applicable. 
+
+The player table stores personal information for each player such as their name, birthdate, number, and position. A player plays in many games and a game has many players involved. The weak entity between these two entities is gameStats which stores the offensive yardage statistics each player records in each game they play. Passing yards, receiving yards, and rushing yards for each player are stored here.
+
+A player can also now have many NIL deals with several companies. One company (stored in the Sponsor table) also has the ability to sponsor many players. A sponsor has a company name and a unique id. To link the many to many relationship between Sponsor and player there is the NIL table. The NIL table stores the id of the deal as was all the agreed upon dollar amount for the contract between a company and a player.
+
+Our data model stores a range of data around college football which could be pertinent to a school administration, third party company interested in sponsoring athletes, or teh everyday college football fan!
+
 
 ![Project Diagram](https://github.com/user-attachments/assets/e39815d3-a0fe-4377-876d-d4131b634156)
 
